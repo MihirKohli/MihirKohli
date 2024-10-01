@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer 💻 who's pursuing master's in Information Technology at DAIICT.  
+I’m a Python Developer
   
 
 <br/>  
@@ -18,13 +18,13 @@ I’m a full-stack developer 💻 who's pursuing master's in Information Technol
 ## About me  
 <table cellspacing="0" cellpadding="0" ><tr><td valign="top" width="70%">
 
-- ### 🔭 Currently working on personal stock market project.  
+- ### 🔭 Currently contributing to open source projects.
   
 
-- ### 🌱 I’m learning Express and Bash Scripting.    
+- ### 🌱 I’m learning Genai and agentic architecture development.
   
 
-- ### ❓ Ask me about anything related to Django stack and related technologies    
+- ### ❓ Ask me about anything related to Fastapi stack and related technologies    
   
 
 - ### ⚡ Fun fact: I use tabs over spaces    
